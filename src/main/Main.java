@@ -39,8 +39,6 @@ public class Main {
                case 3:
                    SalariosLogica salariosLogica=new SalariosLogica();
                    salariosLogica.calcularMaximoSalario();
-                   int valor=salariosLogica.calcularPromedio();
-                   salariosLogica.imprimirResultados(valor);
                    break;
                case 4:
                    VectorLogica vectorLogica=new VectorLogica();
@@ -50,6 +48,7 @@ public class Main {
                    System.exit(0);
                    break;
                default:
+                   System.exit(0);
                    break;
 
            }

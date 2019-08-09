@@ -17,3 +17,7 @@ G
 src/arreglo/Vector.java,d\3\d3a1f06205a59c0ef9e5c33763a9a12242c6b1dd
 M
 src/arreglo/VectorLogica.java,b\a\babb1d4f421c942193fc8e0a7294217aeb68b47a
+F
+src/zodiaco/Signo.java,9\8\987ee35b5fb536146935f4ac9d5495e81c70389e
+L
+src/zodiaco/SignoLogica.java,0\8\080385172efd45325d8085f6a6eb5e5da26a3122

@@ -19,13 +19,14 @@ public enum Strings {
     MENSAJE_OBECIDAD3("Obecidad 3"),
     MENSAJE_OBECIDAD4("Obecidad 4"),
     MENSAJE_IMC(" IMC="),
-    MENSAJE_DATOS_EMPLEADO("Ingrese cantidad de salarios a pagar"),
+    MENSAJE_DATOS_EMPLEADO("¿Ingresar un salario?"),
     MENSAJE_EMPLEADO("Ingrese salario"),
     MENSAJE_PROMEDIO("El promedio de salarios: "),
     MENSAJE_SALARIO_MAXIMO("El salario maximo pagado fue: "),
     MENSAJE_TOTAL_SALARIOS("El total de salarios pagados: "),
     MENSAJE_VECTOR_VALORES("Cantidad de numeros a ingresar"),
     MENSAJE_PEDIR_NUMERO("Ingrese un numero"),
+    MENSAJE_INGRESAR_NUMERO("¿Desea ingresar un numero?"),
     MENSAJE_PROMEDIO_POSITIVOS("El promedio del vector positivo fue:  "),
     MENSAJE_PROMEDIO_NEGATIVOS("El promedio del vector negativo fue:  "),
     MENSAJE_DIAS("Ingrese dia de nacimiento"),
@@ -55,7 +56,8 @@ public enum Strings {
     MENSAJE_SAGITARIO("Su signo es sagitario"),
     MENSAJE_CAPRICORNIO("Su signo es capricornio"),
     MENSAJE_ACUARIO("Su signo es acuario"),
-    MENSAJE_PISCIS("Su signo es piscis"),;
+    MENSAJE_PISCIS("Su signo es piscis"),
+    MENSAJE("Mensaje");
 
     private String mensaje;
 
